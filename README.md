@@ -1,3 +1,5 @@
+
+
 array = [int(x) for x in input("Введите числа от 1 до 999 в любом порядке, через пробел: ").split()]
 
 def merge_sort(array):  # "разделяй"
